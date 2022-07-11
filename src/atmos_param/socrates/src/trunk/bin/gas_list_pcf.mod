@@ -1,0 +1,323 @@
+GFORTRAN module version '0' created from gas_list_pcf.f90 on Mon Jul  5 14:44:35 2021
+MD5:5da588999236dc002312cebf2bb8a7b0 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () ()
+() () () () () () () () () () () () () () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'depolarization_factor' 'gas_list_pcf' 'depolarization_factor' 1 ((
+PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (
+REAL 8 0 0 REAL ()) 0 0 () (ARRAY (REAL 8 0 0 REAL ()) 1 (((CONSTANT (
+REAL 8 0 0 REAL ()) 0 '0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0
+REAL ()) 0 '0.179a6b50b0f27c@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1ea4a8c154c986@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.147ae147ae147b@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.f5c28f5c28f5c0@-1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.594af4f0d844d0@-1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.7ced916872b020@-1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.5a858793dd97f8@-1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.66666666666668@-1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.00000000000000@0') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.27525460aa64c2@-2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.72474538ef34d8@-1') ())) ('38')) (1 EXPLICIT (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '38')) 0 () ()
+() 0 0)
+3 'gas_list_pcf' 'gas_list_pcf' 'gas_list_pcf' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 ()
+() () 0 0)
+4 'hitran_number' 'gas_list_pcf' 'hitran_number' 1 ((PARAMETER
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (INTEGER 4
+0 0 INTEGER ()) 0 0 () (ARRAY (INTEGER 4 0 0 INTEGER ()) 1 (((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '1') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '2') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '3') ()) ((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '4') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '5') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '6') ()) ((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '7') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '8') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '9') ()) ((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '10') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER
+()) 0 '11') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '12') ()) ((
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '22') ()) ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())
+((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())
+((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())
+((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())
+((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '19') ()) ((CONSTANT (INTEGER 4
+0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0')
+()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '0') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '28') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '26') ()) ((
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '23') ()) ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '31') ()) ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())
+((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') ())) ('38')) (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '38')) 0 () () () 0 0)
+5 'ip_air' 'gas_list_pcf' 'ip_air' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '38') () 0 () () () 0 0)
+6 'ip_ar' 'gas_list_pcf' 'ip_ar' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '37') () 0 () () () 0 0)
+7 'ip_c2h2' 'gas_list_pcf' 'ip_c2h2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '34') () 0 () () () 0 0)
+8 'ip_cfc11' 'gas_list_pcf' 'ip_cfc11' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '14') () 0 () () () 0 0)
+9 'ip_cfc113' 'gas_list_pcf' 'ip_cfc113' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '16') () 0 () () () 0 0)
+10 'ip_cfc114' 'gas_list_pcf' 'ip_cfc114' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '20') () 0 () () () 0 0)
+11 'ip_cfc12' 'gas_list_pcf' 'ip_cfc12' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '15') () 0 () () () 0 0)
+12 'ip_ch4' 'gas_list_pcf' 'ip_ch4' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '6') () 0 () () () 0 0)
+13 'ip_co' 'gas_list_pcf' 'ip_co' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '5') () 0 () () () 0 0)
+14 'ip_co2' 'gas_list_pcf' 'ip_co2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '2') () 0 () () () 0 0)
+15 'ip_crh' 'gas_list_pcf' 'ip_crh' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '29') () 0 () () () 0 0)
+16 'ip_cs' 'gas_list_pcf' 'ip_cs' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '32') () 0 () () () 0 0)
+17 'ip_feh' 'gas_list_pcf' 'ip_feh' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '28') () 0 () () () 0 0)
+18 'ip_h2' 'gas_list_pcf' 'ip_h2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '23') () 0 () () () 0 0)
+19 'ip_h2o' 'gas_list_pcf' 'ip_h2o' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') () 0 () () () 0 0)
+20 'ip_h2s' 'gas_list_pcf' 'ip_h2s' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '36') () 0 () () () 0 0)
+21 'ip_hcfc22' 'gas_list_pcf' 'ip_hcfc22' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '17') () 0 () () () 0 0)
+22 'ip_hcn' 'gas_list_pcf' 'ip_hcn' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '35') () 0 () () () 0 0)
+23 'ip_he' 'gas_list_pcf' 'ip_he' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '24') () 0 () () () 0 0)
+24 'ip_hfc125' 'gas_list_pcf' 'ip_hfc125' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '18') () 0 () () () 0 0)
+25 'ip_hfc134a' 'gas_list_pcf' 'ip_hfc134a' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '19') () 0 () () () 0 0)
+26 'ip_hno3' 'gas_list_pcf' 'ip_hno3' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '12') () 0 () () () 0 0)
+27 'ip_k' 'gas_list_pcf' 'ip_k' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '27') () 0 () () () 0 0)
+28 'ip_li' 'gas_list_pcf' 'ip_li' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '30') () 0 () () () 0 0)
+29 'ip_n2' 'gas_list_pcf' 'ip_n2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '13') () 0 () () () 0 0)
+30 'ip_n2o' 'gas_list_pcf' 'ip_n2o' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '4') () 0 () () () 0 0)
+31 'ip_na' 'gas_list_pcf' 'ip_na' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '26') () 0 () () () 0 0)
+32 'ip_nh3' 'gas_list_pcf' 'ip_nh3' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '11') () 0 () () () 0 0)
+33 'ip_no' 'gas_list_pcf' 'ip_no' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '8') () 0 () () () 0 0)
+34 'ip_no2' 'gas_list_pcf' 'ip_no2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '10') () 0 () () () 0 0)
+35 'ip_o2' 'gas_list_pcf' 'ip_o2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '7') () 0 () () () 0 0)
+36 'ip_o3' 'gas_list_pcf' 'ip_o3' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '3') () 0 () () () 0 0)
+37 'ip_ocs' 'gas_list_pcf' 'ip_ocs' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '25') () 0 () () () 0 0)
+38 'ip_ph3' 'gas_list_pcf' 'ip_ph3' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '33') () 0 () () () 0 0)
+39 'ip_rb' 'gas_list_pcf' 'ip_rb' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '31') () 0 () () () 0 0)
+40 'ip_so2' 'gas_list_pcf' 'ip_so2' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '9') () 0 () () () 0 0)
+41 'ip_tio' 'gas_list_pcf' 'ip_tio' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '21') () 0 () () () 0 0)
+42 'ip_vo' 'gas_list_pcf' 'ip_vo' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '22') () 0 () () () 0 0)
+43 'molar_weight' 'gas_list_pcf' 'molar_weight' 1 ((PARAMETER
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 8 0 0
+REAL ()) 0 0 () (ARRAY (REAL 8 0 0 REAL ()) 1 (((CONSTANT (REAL 8 0 0
+REAL ()) 0 '0.1203eab367a0f9@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.2c028f5c28f5c2@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.2fff8a0902de00@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.2c0346dc5d6388@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1c02b6ae7d566d@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.100b020c49ba5e@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1fffb15b573eab@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1e018fc504816f@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.401013a92a3054@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.2e016872b020c4@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1107d566cf41f2@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.3f034d6a161e50@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1c036e2eb1c433@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.895e5c91d14e38@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.78e9fbe76c8b44@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.bb60624dd2f1a8@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.56780b242070b8@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.7805b37c99ae94@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.660826aa8eb464@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.aaebc6a7ef9db0@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.3fddb22d0e5604@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.42f0ded288ce70@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.20410b630a9154@1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.400aa8650e7794@1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.3c133333333334@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.16fd6185002f7b@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.27192a30553262@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.38da5e353f7cee@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.35010624dd2f1a@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.6f0e5604189374@1') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.5577c1bda5119c@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.84e7cbb21a99e0@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.21ff61672324c8@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1a098c7e28240b@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1b067a0f9096bc@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.2214bc6a7ef9dc@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.27f2b020c49ba6@2') ()) ((CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.1cf74bc6a7ef9e@2') ())) ('38')) (1 EXPLICIT (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '38')) 0 () ()
+() 0 0)
+44 'name_absorb' 'gas_list_pcf' 'name_absorb' 1 ((PARAMETER
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (CHARACTER
+1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '20'))) 0 0 () (
+ARRAY (CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0
+'20'))) 1 (((CONSTANT (CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '20'))) 0 20 'Water Vapour        ') ()) ((CONSTANT (
+CHARACTER 1 0 0 CHARACTER (())) 0 20 'Carbon Dioxide      ') ()) ((
+CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Ozone               ') ())
+((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Dinitrogen Oxide    ')
+()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20
+'Carbon monoxide     ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (()))
+0 20 'Methane             ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (
+())) 0 20 'Oxygen              ') ()) ((CONSTANT (CHARACTER 1 0 0
+CHARACTER (())) 0 20 'Nitrogen monoxide   ') ()) ((CONSTANT (CHARACTER 1
+0 0 CHARACTER (())) 0 20 'Sulphur dioxide     ') ()) ((CONSTANT (
+CHARACTER 1 0 0 CHARACTER (())) 0 20 'Nitrogen dioxide    ') ()) ((
+CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Ammonia             ') ())
+((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Nitric acid         ')
+()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20
+'Nitrogen            ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (()))
+0 20 'CFC11               ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (
+())) 0 20 'CFC12               ') ()) ((CONSTANT (CHARACTER 1 0 0
+CHARACTER (())) 0 20 'CFC113              ') ()) ((CONSTANT (CHARACTER 1
+0 0 CHARACTER (())) 0 20 'HCFC22              ') ()) ((CONSTANT (
+CHARACTER 1 0 0 CHARACTER (())) 0 20 'HFC125              ') ()) ((
+CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'HFC134A             ') ())
+((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'CFC114              ')
+()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20
+'Titanium oxide      ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (()))
+0 20 'Vanadium oxide      ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (
+())) 0 20 'Hydrogen            ') ()) ((CONSTANT (CHARACTER 1 0 0
+CHARACTER (())) 0 20 'Helium              ') ()) ((CONSTANT (CHARACTER 1
+0 0 CHARACTER (())) 0 20 'Carbonyl sulphide   ') ()) ((CONSTANT (
+CHARACTER 1 0 0 CHARACTER (())) 0 20 'Sodium              ') ()) ((
+CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Potassium           ') ())
+((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Iron hydride        ')
+()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20
+'Chromium hydride    ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (()))
+0 20 'Lithium             ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (
+())) 0 20 'Rubidium            ') ()) ((CONSTANT (CHARACTER 1 0 0
+CHARACTER (())) 0 20 'Cesium              ') ()) ((CONSTANT (CHARACTER 1
+0 0 CHARACTER (())) 0 20 'Phosphine           ') ()) ((CONSTANT (
+CHARACTER 1 0 0 CHARACTER (())) 0 20 'Acetylene           ') ()) ((
+CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Hydrogen cyanide    ') ())
+((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20 'Hydrogen sulphide   ')
+()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (())) 0 20
+'Argon               ') ()) ((CONSTANT (CHARACTER 1 0 0 CHARACTER (()))
+0 20 'Dry air             ') ())) ('38')) (1 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0
+'38')) 0 () () () 0 0)
+45 'npd_gases' 'gas_list_pcf' 'npd_gases' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '38') () 0 () () () 0 0)
+46 'realk' 'realtype_rd' 'realk' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '8') () 0 () () () 0 0)
+47 'realtype_rd' 'realtype_rd' 'realtype_rd' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 ()
+() () 0 0)
+48 'selected_real_kind' '(intrinsic)' 'selected_real_kind' 1 ((
+PROCEDURE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN FUNCTION) (
+UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 48 () () () 0 0)
+)
+
+('depolarization_factor' 0 2 'gas_list_pcf' 0 3 'hitran_number' 0 4
+'ip_air' 0 5 'ip_ar' 0 6 'ip_c2h2' 0 7 'ip_cfc11' 0 8 'ip_cfc113' 0 9
+'ip_cfc114' 0 10 'ip_cfc12' 0 11 'ip_ch4' 0 12 'ip_co' 0 13 'ip_co2' 0
+14 'ip_crh' 0 15 'ip_cs' 0 16 'ip_feh' 0 17 'ip_h2' 0 18 'ip_h2o' 0 19
+'ip_h2s' 0 20 'ip_hcfc22' 0 21 'ip_hcn' 0 22 'ip_he' 0 23 'ip_hfc125' 0
+24 'ip_hfc134a' 0 25 'ip_hno3' 0 26 'ip_k' 0 27 'ip_li' 0 28 'ip_n2' 0
+29 'ip_n2o' 0 30 'ip_na' 0 31 'ip_nh3' 0 32 'ip_no' 0 33 'ip_no2' 0 34
+'ip_o2' 0 35 'ip_o3' 0 36 'ip_ocs' 0 37 'ip_ph3' 0 38 'ip_rb' 0 39
+'ip_so2' 0 40 'ip_tio' 0 41 'ip_vo' 0 42 'molar_weight' 0 43 'name_absorb'
+0 44 'npd_gases' 0 45 'realk' 0 46 'realtype_rd' 0 47 'selected_real_kind'
+0 48)

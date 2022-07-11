@@ -1,0 +1,58 @@
+GFORTRAN module version '0' created from def_solarspec.f90 on Mon Jul  5 14:44:35 2021
+MD5:7e516aebb996995c5fcb3f9d46247792 -- If you edit this, you'll get what you deserve.
+
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'def_solarspec' 'def_solarspec' 'def_solarspec' 1 ((MODULE
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ())
+0 0 () () 0 () () () 0 0)
+3 'rad_ccf' 'rad_ccf' 'rad_ccf' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 () () () 0 0)
+4 'realk' 'realtype_rd' 'realk' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '8') () 0 () () () 0 0)
+5 'realtype_rd' 'realtype_rd' 'realtype_rd' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 ()
+() () 0 0)
+6 'solar_radius' 'rad_ccf' 'solar_radius' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (REAL 8 0 0 REAL ()) 0 0 () (
+CONSTANT (REAL 8 0 0 REAL ()) 0 '0.297c1e00000000@8') () 0 () () () 0 0)
+7 'solar_t_effective' 'rad_ccf' 'solar_t_effective' 1 ((PARAMETER
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (REAL 8 0 0 REAL ())
+0 0 () (CONSTANT (REAL 8 0 0 REAL ()) 0 '0.16990000000000@4') () 0 () ()
+() 0 0)
+8 'strsolarspec' 'def_solarspec' 'strsolarspec' 1 ((DERIVED
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN POINTER_COMP) (UNKNOWN 0 0 0
+UNKNOWN ()) 0 0 () () 0 ((9 'n_points' (INTEGER 4 0 0 INTEGER ()) () (
+UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) UNKNOWN-ACCESS (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0')) (10 'wavelength' (REAL 8 0 0
+REAL ()) (1 DEFERRED () ()) (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DIMENSION POINTER) UNKNOWN-ACCESS ()) (11 'irrad' (REAL
+8 0 0 REAL ()) (1 DEFERRED () ()) (UNKNOWN-FL UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION POINTER) UNKNOWN-ACCESS ()) (12
+'bandsize' (REAL 8 0 0 REAL ()) (1 DEFERRED () ()) (UNKNOWN-FL
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION POINTER)
+UNKNOWN-ACCESS ()) (13 'bandbnds' (REAL 8 0 0 REAL ()) (2 DEFERRED () ()
+() ()) (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION
+POINTER) UNKNOWN-ACCESS ()) (14 't_effective' (REAL 8 0 0 REAL ()) () (
+UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) UNKNOWN-ACCESS (
+CONSTANT (REAL 8 0 0 REAL ()) 0 '0.16990000000000@4')) (15 'radius' (
+REAL 8 0 0 REAL ()) () (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN) UNKNOWN-ACCESS (CONSTANT (REAL 8 0 0 REAL ()) 0
+'0.297c1e00000000@8')) (16 'l_binned' (LOGICAL 4 0 0 LOGICAL ()) () (
+UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) UNKNOWN-ACCESS (
+CONSTANT (LOGICAL 4 0 0 LOGICAL ()) 0 0))) PUBLIC (() ()) () 0 0)
+)
+
+('def_solarspec' 0 2 'rad_ccf' 0 3 'realk' 0 4 'realtype_rd' 0 5
+'solar_radius' 0 6 'solar_t_effective' 0 7 'strsolarspec' 0 8)
